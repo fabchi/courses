@@ -1,15 +1,12 @@
 #
 # GitPitch Slideshow Custom Settings
 #
-# For details, visit Wiki:
-# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
-#
-theme : beige
+
+theme : white
 theme-override : assets/css/PITCHME.css
-# theme-override : assets/css/PITCHME.codemax.css
 highlight : hybrid
 logo : assets/img/logo.png
-transition : none
+transition : fade
 published : true
 layout: top
 footnote : "GitPitch [ Aqua ] Presentation Template"

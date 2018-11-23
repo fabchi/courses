@@ -1,8 +1,8 @@
 # Hello World!
 
----?image=http://kubikeggs.com/gisup/img/bk_1.png&size=auto 75%&position=bottom&color=#fff
+---?image=http://kubikeggs.com/gisup/img/bk_1.png&size= 100%&position=center&color=#fff
 
-### @color[white](Fill the background with custom colors for visual pop)
+### @color[#673ab7](Fill the background with custom colors for visual pop)
 
 
 ---
